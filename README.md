@@ -41,7 +41,7 @@ make && make install
 To try out xeus-cling interactively in your web browser, just click on the binder
 link:
 
-[![Binder](binder-logo.svg)](https://mybinder.org/v2/gh/QuantStack/xeus-cling/stable?filepath=notebooks/xcpp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paritosh-in/xeus-cling/master)
 
 ## Documentation
 
